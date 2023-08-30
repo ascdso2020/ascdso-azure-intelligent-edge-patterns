@@ -1,8 +1,0 @@
-# This build job is provided as an example 
-
-build:
-  image: reactnativecommunity/react-native-android
-  script:
-    - npm install
-    - cd android
-    - ./gradlew assembleRelease

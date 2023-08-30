@@ -1,4 +1,0 @@
-networkx
-pydantic==1.7.2
-fastapi
-uvicorn
